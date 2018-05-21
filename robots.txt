@@ -1,0 +1,4 @@
+Sitemap: https://NickMacro.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: NickMacro.github.io
